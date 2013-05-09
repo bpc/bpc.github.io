@@ -18,6 +18,8 @@ body {
 
 header {
   background-color: #9a3920;
+  background: url(http://25.media.tumblr.com/e03a05731eb03133f4977e9ff028ad08/tumblr_mmh04pY4bJ1qgcpobo3_1280.jpg);
+  background-position: 0 -100px;
   color: white;
   padding: 128px 0 50px 0;
 }
