@@ -57,6 +57,7 @@ header p {
   font-size: 18px;
   font-style: italic;
   margin-left: 200px;
+  max-width: 360px;
 }
 
 .beatpacker dl {
