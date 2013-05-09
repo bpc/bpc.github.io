@@ -36,9 +36,12 @@ header h1 {
 }
 
 header p {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
   font-style: italic;
   font-weight: 100;
   margin-top: 50px;
+  text-transform: lowercase;
 }
 
 .beatpacker {
