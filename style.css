@@ -43,8 +43,15 @@ header h1 {
   text-decoration: underline;
 }
 
+.beatpacker p {
+  font-size: 18px;
+  font-style: italic;
+  margin-left: 200px;
+}
+
 .beatpacker dl {
   clear: right;
+  line-height: 1.6;
   margin-left: 200px;
   padding: 0;
 }
