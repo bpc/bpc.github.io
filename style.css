@@ -18,10 +18,42 @@ header h1 {
 }
 
 .beatpacker {
-  margin: 0 auto;
+  clear: both;
+  margin: 15px auto;
+  overflow: auto;
   width: 560px;
 }
 
 .beatpacker img {
+  float: left;
   width: 192px;
+}
+
+.beatpacker h2 {
+  font-size: 20px;
+  margin: 10px 0 0 200px;
+}
+
+.beatpacker a {
+  color: black;
+  text-decoration: none;
+}
+
+.beatpacker a:hover {
+  text-decoration: underline;
+}
+
+.beatpacker dl {
+  clear: right;
+  margin-left: 200px;
+  padding: 0;
+}
+
+.beatpacker dl dt {
+  display: none;
+}
+
+.beatpacker dl dd {
+  padding: 0;
+  margin: 0;
 }
